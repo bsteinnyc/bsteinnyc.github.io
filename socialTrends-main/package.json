@@ -1,8 +1,11 @@
 {
   "name": "my-v0-project",
   "version": "0.1.0",
+  "homepage": "https://bsteinnyc.github.io/react-gh-pages",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
