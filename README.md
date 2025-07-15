@@ -39,7 +39,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-[Testing react](https://bsteinnyc.github.io/social-media-trends-tracker)
+[Testing react](https://bsteinnyc.github.io/socialTrends)
 
 [I'm an inline-style link](https://www.google.com)
 
