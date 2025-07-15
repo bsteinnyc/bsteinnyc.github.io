@@ -2,7 +2,7 @@
   "name": "social-media-trends-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/social-media-trends-tracker",
+  "homepage": "https://bsteinnyc.github.io/social-media-trends-tracker",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
